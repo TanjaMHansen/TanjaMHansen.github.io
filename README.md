@@ -5,9 +5,7 @@
 
 <p>tanja@ps.au.dk // tanjamhansen@gmail.com // @tmh_phd</p>
 
-[This site is currently under construction]<br>
-</br>
-
+[This site is currently under construction]
 
 <form method="GET" action="TanjaMHansen.github.io/about">
     <button type="submit">Publications</button>
