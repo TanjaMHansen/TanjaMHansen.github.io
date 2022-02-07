@@ -27,7 +27,9 @@
  
  <ul>
   <li>PhD in Political Science, Department of Political Science and Public Management, University of Southern Denmark, May 2021</li>
+   <p> </p>
   <li>Cand. Scient. Pol., Department of Political Science and Public Management, University of Southern Denmark, June 2017</li>
+   <p> </p>
   <li>Bsc. Scient. Pol., Department of Political Science and Public Management, University of Southern Denmark, June 2015</li>
  </ul>
   
