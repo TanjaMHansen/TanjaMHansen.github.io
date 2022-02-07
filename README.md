@@ -11,7 +11,7 @@
 
 <form method="GET" action="TanjaMHansen.github.io/about">
     <button type="submit">Publications</button>
-</form> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</form> 
 
 <form method="GET" action="TanjaMHansen.github.io/oplysningspligt">
     <button type="submit">Oplysningspligt</button>
