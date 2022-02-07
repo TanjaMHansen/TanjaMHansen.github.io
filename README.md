@@ -9,14 +9,6 @@
 
 [This site is currently under construction]
 
-<form method="GET" action="TanjaMHansen.github.io/about">
-    <button type="submit">Publications</button>
-</form> 
-
-<form method="GET" action="TanjaMHansen.github.io/oplysningspligt">
-    <button type="submit">Oplysningspligt</button>
-</form> 
-
 
 <html>
   <body> 
