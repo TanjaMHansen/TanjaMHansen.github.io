@@ -1,8 +1,3 @@
-layout: page
-title: "Oplysningspligt"
-permalink: /Oplysningspligt/
-
-<!DOCTYPE html>
 <html>
 <body>
 
