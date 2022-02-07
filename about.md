@@ -1,8 +1,4 @@
-layout: page
-title: "about"
-permalink: /about/
 
-<!DOCTYPE html>
 <html>
 <body>
 
