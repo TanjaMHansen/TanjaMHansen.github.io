@@ -9,11 +9,10 @@
 </br>
 
 
-<form method="post" action="TanjaMHansen.github.io/about">
+<form method="GET" action="TanjaMHansen.github.io/about">
     <button type="submit">Publications</button>
 </form> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<form method="post" action="TanjaMHansen.github.io/oplysningspligt">
+<form method="GET" action="TanjaMHansen.github.io/oplysningspligt">
     <button type="submit">Oplysningspligt</button>
-</form> <br>
-</br>
+</form> 
