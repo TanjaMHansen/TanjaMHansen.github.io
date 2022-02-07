@@ -19,7 +19,7 @@
 <html>
   <body> 
     
-    <a href="http://TanjaMHansen.github.io/about">
+    <a href="https://tanjamhansen.github.io/about">
       <button>About me</button>
     </a>
     
@@ -29,7 +29,7 @@
 <html>
   <body> 
     
-    <a href="http://TanjaMHansen.github.io/oplysningspligt">
+    <a href="https://tanjamhansen.github.io/oplysningspligt">
       <button>Oplysningspligt</button>
     </a>
     
