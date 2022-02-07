@@ -3,10 +3,9 @@
 
 <h1>Information til deltagere i forskningsprojektet</h1>
 <p> </p>
-<h3>Forskningsprojekt på Institut for Statskundskab, Aarhus Universitet ledt af Professor Lasse Lindekilde Lindekilde@ps.au.dk i samarbejde med Tanja Marie Hansen tanja@ps.au.dk</h3>
+<h4><em>Forskningsprojekt på Institut for Statskundskab, Aarhus Universitet ledt af Professor Lasse Lindekilde Lindekilde@ps.au.dk i samarbejde med Tanja Marie Hansen tanja@ps.au.dk</em></h4><br>
 
-<p> </p>
-<p> </p>
+ <br>
 
 <h2>Information til deltagere i forskningsprojektet</h2>
 
