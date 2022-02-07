@@ -14,3 +14,24 @@
 <form method="GET" action="TanjaMHansen.github.io/oplysningspligt">
     <button type="submit">Oplysningspligt</button>
 </form> 
+
+
+<html>
+  <body> 
+    
+    <a href="http://TanjaMHansen.github.io/about">
+      <button>About me</button>
+    </a>
+    
+  </body>
+</html>
+
+<html>
+  <body> 
+    
+    <a href="http://TanjaMHansen.github.io/oplysningspligt">
+      <button>Oplysningspligt</button>
+    </a>
+    
+  </body>
+</html>
