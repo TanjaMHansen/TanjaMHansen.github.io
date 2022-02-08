@@ -26,7 +26,7 @@ Projektet har modtaget etisk godkendelse af Aarhus Univseritets Forskningsetiske
 <p> </p>
 
 <h2>Forskningsprojektets titel</h2>
-<p>Deltagelse i og adfærd under diskussioner på sociale medier</p>
+<p>Deltagelse i og adfærd under diskussioner på sociale medier.</p>
 
 <p> </p>
 
@@ -71,7 +71,7 @@ hvor bølgerne nogle gange kan gå højt.</p>
   <li>Fra dig og andre*</li>
  </ul>
  
-<p>*Andre refererer her til de offentligt tilgængelige kontaktoplysninger og kommentarer du har skrevet på Facebook opslag</p>
+<p>*Andre refererer her til de offentligt tilgængelige kontaktoplysninger og kommentarer du har skrevet på Facebook opslag.</p>
 
 <h2>Vi har ret til at behandle dine personoplysninger efter regler i databeskyttelsesforordningen og databeskyttelsesloven</h2>
 <p>Vi skal oplyse dig om, hvilke regler, der gælder for vores arbejde med dine personoplysninger.</p>
