@@ -3,7 +3,7 @@
 
 <h1>Information til deltagere i forskningsprojektet</h1>
 <p> </p>
-<h4><em>Forskningsprojekt på Institut for Statskundskab, Aarhus Universitet ledt af Professor Lasse Lindekilde Lindekilde@ps.au.dk i samarbejde med Tanja Marie Hansen tanja@ps.au.dk</em></h4><br>
+<h4><em>Forskningsprojekt på Institut for Statskundskab, Aarhus Universitet ledt af Professor Lasse Lindekilde, Lindekilde@ps.au.dk, i samarbejde med Tanja Marie Hansen, tanja@ps.au.dk</em></h4><br>
 
 <p>Velkommen til hjemmesiden for forskningsprojektet, ”STANDBY: Standing by: Pro-social Bystander Reactions to Online Political Hostility.” 
 På denne side kan du finde information om, hvordan Aarhus Universitet behandler dine personoplysninger. 
