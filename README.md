@@ -26,6 +26,16 @@ Here you can find information on published and forthcoming publications, running
 <html>
   <body> 
     
+    <a href="https://tanjamhansen.github.io/Publications">
+      <button>Publications</button>
+    </a>
+    
+  </body>
+</html>
+
+<html>
+  <body> 
+    
     <a href="https://tanjamhansen.github.io/oplysningspligt">
       <button>Oplysningspligt</button>
     </a>
