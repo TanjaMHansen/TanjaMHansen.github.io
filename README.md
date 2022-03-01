@@ -2,9 +2,12 @@
 
 # Tanja Marie Hansen
 
-<p>Welcome to my personal website.</p>
-<p>Here you can find information on published and forthcoming publications, running research projects, and legal information regarding GDPR-rights for interviewees.</p>
+<p>Welcome to my personal website.
+Here you can find information on published and forthcoming publications, running research projects, and legal information regarding GDPR-rights for interviewees.</p>
 
+<p>I am a political scientist situated in Denmark at Aarhus University. I research the darker sides of political behavior, focusing on politics outside the ballot box, e.g. violent uprisings, terrorism, online hostility and much more. In my research I apply a multi-method approach, and to the degree that my academic toolbox (and wallet) allows, I I choose <em>how</em> to carry out a study based on <em>what</em> method best enables me to answer the research question at hand. This has previously led me to dabble with such diverse methods as thematic content analysis, interrupted time series designs, logistic regression modelling, survey experiments, and comparative historical case studies (to mention a few). In general, I am bit of a methods geek - but aren't we all deep down.
+  I am currently a member of the STANDBY team in Aarhus, Denmark, led by PI Lasse Lindekilde, which researches pro-social bystander reactions to online hate speech.</p>
+ 
 
 <p>[This site is currently under construction]</p>
 
