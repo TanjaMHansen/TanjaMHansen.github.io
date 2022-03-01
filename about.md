@@ -20,5 +20,10 @@
   
   <h2>Awards</h2>
   <p>Best Master's Thesis 2017 - Political Science, University of Southern Denmark<p>
+ 
+ <h2>Teaching</h2>
+ <p>This list is not comprehensive - more information available upon request</p>
+ 
+ 
 
 
