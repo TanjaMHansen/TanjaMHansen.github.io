@@ -24,6 +24,26 @@
  <h2>Teaching</h2>
  <p>This list is not comprehensive - more information available upon request</p>
  
+ <ul>
+  <h3>Guest lectures</h3>
+  <li> Winter 2022, Central European University, Terrorism: A Comparative Politics Perspective. "Terrorism: Why Not Claim It While You're at It?"</li>
+  <li> Fall 2020, University of Southern Denmark, Introduction to International Security. "Terrorism - Definitions and Strategic Logics"</li>
+  <li> Fall 2019, University of Southern Denmark, Comparative Politics. "Demokratisk transition og konsolidering"</li>
+  <li> Spring 2018, University of Southern Denmark, New Wars and Conflicts. "4 Waves of terrorism" & "Democracy and Terrorism"</li>
+  
+  <h3>Supervision</h3>
+  <li> Spring 2021, University of Southern Denmark: MA theses (5) and BA theses (5)</li>
+  <li> Spring 2019, University of Southern Denmark: MA theses (2)
+  <li> Spring 2018, University of Southern Denmark: BA theses (5)
+  <li> Spring 2018, University of Southern Denmark: Methods 3 (Understanding Research Designls) term papers (8)
+   
+  <h3>Teaching assistant</h3>
+  <li> Fall 2019, University of Southernm Denmark: Comparative Politics / Sammenlignende Statskundskab</li>
+  <li> Spring 2017, University of Southern Denmark: Methods 2 / Metode 2 (Introduction to Statistics)</li>
+  <h3>Outreach</h3>
+  <li> Fall 2020, Zetland: Helikopter_, "Europa er ramt af endnu et terrorangreb. Hvad er det egentlig, islamisterne vil?" Appearance on News Podcast</li>
+  <li> Spring 2020, High School Lecture, Varde Handelsgymnasium</li>
+  <li> Fall 2018, High School Lecture, Akademiet for Talentfulde Unge</li>
  
 
 
