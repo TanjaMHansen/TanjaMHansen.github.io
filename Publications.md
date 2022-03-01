@@ -1,7 +1,5 @@
 <h1>Publications</h1>
 
-<p><a href="https://www.w3schools.com/">Visit W3Schools.com!</a></p>
-
 <ul>
   <li>Hansen, Tanja M. (E-pub ahead of print) <a href="https://www.tandfonline.com/doi/full/10.1080/09546553.2022.2035364">"Time is of the Essence: Temporality and Competition as Drivers of Terrorist Credit-Taking"</a>, <em>Terrorism and Political Violence</em>.</li>
   <p> </p>
