@@ -7,7 +7,7 @@
 
 <p>Velkommen til hjemmesiden for forskningsprojektet, ”STANDBY: Standing by: Pro-social Bystander Reactions to Online Political Hostility.” 
 På denne side kan du finde information om, hvordan Aarhus Universitet behandler dine personoplysninger. 
-Projektet har modtaget etisk godkendelse af Aarhus Univseritets Forskningsetiske Komité den __. ______ 2022 (Godkendelsesnummer: ________)</p>
+Projektet har modtaget etisk godkendelse af Aarhus Univseritets Forskningsetiske Komité den 17. March 2022 (Godkendelsesnummer: BSS-2022-012)</p>
 
 <h2>Sådan behandler Aarhus Universitet dine personoplysninger</h2>
 <p>I forbindelse med din deltagelse i et forskningsprojekt på Aarhus Universitet, skal vi efter databeskyttelsesforordningen oplyse dig om, hvordan dine personoplysninger vil blive behandlet.</p>
