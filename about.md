@@ -54,8 +54,10 @@
   <li> Fall 2020, Zetland: Helikopter_, "Europa er ramt af endnu et terrorangreb. Hvad er det egentlig, islamisterne vil?" Appearance on News Podcast</li>
   <li> Spring 2020, High School Lecture, Varde Handelsgymnasium</li>
   <li> Fall 2018, High School Lecture, Akademiet for Talentfulde Unge</li>
- 
+
+<ul>
 <h2>Scientific Network Participation</h2>
-  <p>IAPSS: The International Academic Partnerships for Science and Security<p>
-  <p>TrygFondens Netværk for Civilsamfundsforskning<p>
+  <li>IAPSS: The International Academic Partnerships for Science and Security</li>
+  <li>TrygFondens Netværk for Civilsamfundsforskning</li>
+</ul>
 
