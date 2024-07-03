@@ -19,6 +19,9 @@
   
   <h2>Awards</h2>
   <p>Best Master's Thesis 2017 - Political Science, University of Southern Denmark<p>
+
+  <h2>Scientific Network Participation</h2>
+  <p>IAPSS: The International Academic Partnerships for Science and Security & TrygFondens Netværk for Civilsamfundsforskning</p>
  
  <h2>Teaching</h2>
  <p>This list is not comprehensive - more information available upon request</p>
@@ -56,7 +59,5 @@
   <li> Fall 2018, High School Lecture, Akademiet for Talentfulde Unge</li>
 
 
-<h2>Scientific Network Participation</h2>
-  <p>IAPSS: The International Academic Partnerships for Science and Security & TrygFondens Netværk for Civilsamfundsforskning</p>
 
 
