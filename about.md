@@ -57,7 +57,6 @@
 
 <ul>
 <h2>Scientific Network Participation</h2>
-  <li>IAPSS: The International Academic Partnerships for Science and Security</li>
-  <li>TrygFondens Netværk for Civilsamfundsforskning</li>
+  <p>IAPSS: The International Academic Partnerships for Science and Security & TrygFondens Netværk for Civilsamfundsforskning</p>
 </ul>
 
