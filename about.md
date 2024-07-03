@@ -28,7 +28,8 @@
 <li> Fall 2023, Aarhus University: Introduction to Political Science for Political Economists / Politologisk Introduktionskursus (BA-level)</li>
 <li> Spring 2023, Aarhus University: Your Life Online: Identity, Politics, and Conflicts / Dit Online Liv: Identitet, Politik og Konflikt (BA-level)</li>
  <li> Fall 2022+2023, Aarhus University: Political Violence - From Riots to Terrorism / Politisk vold - fra gadekampe til terrorisme (MA-level)</li>
- 
+</ul>
+  
  <ul>
   <h3>Guest lectures</h3>
   <li> Winter 2023, Richmond University, "Time is of the essence: Temporality and competition as drivers of terrorist credit-taking"</li>
