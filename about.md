@@ -53,11 +53,6 @@
   <li> Spring 2023, Aarhus University: Methods 2 (Statistics) / Metode 2 (kvantitativ metode)</li>
   <li> Fall 2019, University of Southernm Denmark: Comparative Politics / Sammenlignende Statskundskab</li>
   <li> Spring 2017, University of Southern Denmark: Methods 2 / Metode 2 (Introduction to Statistics)</li>
-  <h3>Outreach</h3>
-  <li> Fall 2020, Zetland: Helikopter_, "Europa er ramt af endnu et terrorangreb. Hvad er det egentlig, islamisterne vil?" Appearance on News Podcast</li>
-  <li> Spring 2020, High School Lecture, Varde Handelsgymnasium</li>
-  <li> Fall 2018, High School Lecture, Akademiet for Talentfulde Unge</li>
-
 
 
 
