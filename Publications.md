@@ -19,7 +19,8 @@
   <li>Hansen, Tanja M. (2023) <a href="https://www.tandfonline.com/doi/full/10.1080/09546553.2022.2035364">"Time is of the Essence: Temporality and Competition as Drivers of Terrorist Credit-Taking"</a>, <em>Terrorism and Political Violence</em>, Volume 35, Issue 5, Pages 1217-1234. </li>
   <p> </p>
 </ul>
-  
+
+  <ul>
   <li>Hansen, Tanja M. (2022) <a href="https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/perils-of-estimating-disengagement-effects-of-deadly-terrorist-attacks-utilizing-social-media-data/22FE65F5CF949F47E44C6098AF9CC5E5">"The Perils of Estimating Disengagement Effects of Deadly Terrorist Attacks Utilizing Social Media Data"</a>, <em>British Journal of Political Science</em>, Volume 52, Issue 3, Pages 1482-1498. </li>
   <p> </p>
   </ul>
