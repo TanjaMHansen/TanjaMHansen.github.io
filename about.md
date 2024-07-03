@@ -55,5 +55,7 @@
   <li> Spring 2020, High School Lecture, Varde Handelsgymnasium</li>
   <li> Fall 2018, High School Lecture, Akademiet for Talentfulde Unge</li>
  
-
+<h2>Scientific Network Participation</h2>
+  <p>IAPSS: The International Academic Partnerships for Science and Security<p>
+  <p>TrygFondens Netværk for Civilsamfundsforskning<p>
 
