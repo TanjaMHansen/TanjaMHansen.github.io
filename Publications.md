@@ -1,17 +1,17 @@
 <h1>Scientific Publications</h1>
 
 <ul>
-  <li>Hansen, Tanja M.,Lindekilde, L., Karg, S.T.S, Petersen, M.B., Rasmussen, S.H.R. (E-pub ahead of print, May 2024) <a href="">"Combatting Online Hate: Crowd-Moderation and the Public Goods Problem"</a>, <em>Communications: The European Journal of Communication Research"</em>. </li>
+  <li>Hansen, Tanja M., Lemb, Jens (2025) <a href="https://www.tandfonline.com/doi/full/10.1080/09546553.2023.2260001">"Location, Location, Location: Disentangling Drivers of Terrorist Credit-Taking"</a>, <em>Terrorism and Political Violence</em>, Volume 37, Issue 1, 73-92. </li>
   <p> </p>
 </ul>
 
 <ul>
-  <li>Hansen, Tanja M.,Lindekilde, L., Karg, S.T.S (E-pub ahead of print, October 2023) <a href="https://www.tandfonline.com/doi/full/10.1080/0144929X.2023.2282653">"The devil is in the detail: reconceptualising bystander reactions to online political hostility"</a>, <em>Behaviour & Information Technology</em>. </li>
+  <li>Hansen, Tanja M.,Lindekilde, L., Karg, S.T.S, Petersen, M.B., Rasmussen, S.H.R. (2024) <a href="">"Combatting Online Hate: Crowd-Moderation and the Public Goods Problem"</a>, <em>Communications: The European Journal of Communication Research"</em>, Volume 49, Issue 3, 444-467. </li>
   <p> </p>
 </ul>
 
 <ul>
-  <li>Hansen, Tanja M., Lemb, Jens (E-pub ahead of print) <a href="https://www.tandfonline.com/doi/full/10.1080/09546553.2023.2260001">"Location, Location, Location: Disentangling Drivers of Terrorist Credit-Taking"</a>, <em>Terrorism and Political Violence</em>. </li>
+  <li>Hansen, Tanja M.,Lindekilde, L., Karg, S.T.S (2024) <a href="https://www.tandfonline.com/doi/full/10.1080/0144929X.2023.2282653">"The devil is in the detail: reconceptualising bystander reactions to online political hostility"</a>, <em>Behaviour & Information Technology</em>, Volume 43, Issue 14, 3523-3536. </li>
   <p> </p>
 </ul>
 
