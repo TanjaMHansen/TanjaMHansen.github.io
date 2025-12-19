@@ -34,7 +34,7 @@
 <html>
   <body> 
     
-    <a href="https://tanjamhansen.github.io/Participant information">
+    <a href="https://tanjamhansen.github.io/Participant information.md">
       <button>Participant information</button>
     </a>
     
