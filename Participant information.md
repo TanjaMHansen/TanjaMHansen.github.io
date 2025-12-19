@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <body>
 
@@ -78,3 +79,6 @@ We collect the information from you through the survey company Prolific.</p>
 <p>Carl Jacobsens Vej 35</p>
 <p> </p>
 <p>DK-2500 Valby</p>
+
+</body>
+</html>
